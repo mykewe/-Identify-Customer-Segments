@@ -1,4 +1,4 @@
-# -Identify-Customer-Segments
+# Identify-Customer-Segments
 
 
 This is my attempt at the Udacity unsupervised learning project in the introduction to machine learning with tensorflow nanodegree.
